@@ -1,0 +1,44 @@
+body{  margin: 0%;
+    padding: 0%;
+    cursor: pointer;
+    
+}
+.button{
+   
+    float: right;
+    display: block;
+    padding: 10px ;
+    margin: 10px;
+  
+}
+.button a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+.button a:hover{
+    color:indianred ;
+
+}
+.topnav{
+    background-color:black;
+    overflow: hidden;
+}
+
+.topnav a{
+    display: block;
+   float: left;
+    color: white;
+    padding:  15px 10px;
+    text-decoration: none;
+    margin: auto;
+
+}
+.topnav a:hover {
+color:darkolivegreen;
+  }
+.row h3:hover{
+    color:black;
+}
+
+
